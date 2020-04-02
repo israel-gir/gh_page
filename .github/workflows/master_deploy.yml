@@ -22,4 +22,4 @@ jobs:
           git config --global user.email ${{secrets.GHUB_EMAIL}}
           git config --global user.name ${{secrets.GHUB_USERNAME}}
           git remote set-url origin https://${{secrets.PERSONAL_ACCESS_TOKEN}}@github.com/${{secrets.GHUB_USERNAME}}/gh_page.git
-          npm run de
+          npm run deploy

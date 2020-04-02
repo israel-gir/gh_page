@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Github pages with React and CI/CD - GIR
         </a>
       </header>
     </div>

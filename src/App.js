@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Github pages with React and CI/CD - GIR
+          Mostrando el deploy
         </a>
       </header>
     </div>

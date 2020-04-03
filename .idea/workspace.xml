@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca58a3c4-ebe7-4923-b29b-ec6b41602702" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
@@ -24,7 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,7 +62,9 @@
       <option name="presentableId" value="Default" />
       <updated>1585764169663</updated>
       <workItem from="1585764171168" duration="3983000" />
-      <workItem from="1585851860439" duration="4394000" />
+      <workItem from="1585851860439" duration="6895000" />
+      <workItem from="1585875423786" duration="29000" />
+      <workItem from="1585929369096" duration="123000" />
     </task>
     <servers />
   </component>
@@ -69,10 +72,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1698" y="491" width="424" height="487" key="FileChooserDialogImpl" timestamp="1585778046754">
+    <state x="1698" y="491" width="424" height="487" key="FileChooserDialogImpl" timestamp="1585875450382">
       <screen x="0" y="30" width="2560" height="1410" />
     </state>
-    <state x="1698" y="491" width="424" height="487" key="FileChooserDialogImpl/0.30.2560.1410/2560.162.1366.768@0.30.2560.1410" timestamp="1585778046754" />
+    <state x="1698" y="491" width="424" height="487" key="FileChooserDialogImpl/0.30.2560.1410/2560.162.1366.768@0.30.2560.1410" timestamp="1585875450382" />
     <state x="1466" y="324" width="992" height="733" key="SettingsEditor" timestamp="1585858418898">
       <screen x="0" y="30" width="2560" height="1410" />
     </state>

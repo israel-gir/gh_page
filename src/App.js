@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Deploy App with Github Pages
+          Israel GIR.
         </a>
       </header>
     </div>
